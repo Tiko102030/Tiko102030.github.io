@@ -5,5 +5,5 @@
 
 Also go check out this _amazing_ website with games: **bluegamemc.github.io**
 
-This is my first game that I made: https://play.unity.com/p/unity-builds-1255/edit
+This is my first game that I made: https://play.unity.com/p/unity-builds-1255/edit   (Copy the link and paste it into your browser)
 This is a snowboarder game. The controlls are simple: **RIGHT** and **LEFT** Arrows to tilt the player left and right, and the **UP** arrow to speed up for three seconds.
